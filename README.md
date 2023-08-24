@@ -1,2 +1,2 @@
-# GUARIN_README
+# soft.dev
 1st activity
